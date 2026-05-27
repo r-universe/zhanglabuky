@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "CGMissingDataR"]
 	path = CGMissingDataR
-	url = https://github.com/zhanglabuky/cgmissingdatar
+	url = https://github.com/zhanglabuky/cgmmissingdatar
